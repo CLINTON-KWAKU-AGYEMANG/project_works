@@ -1,2 +1,2 @@
 # project_works
-Data science projects i have worked on and copied are hosted here
+Data science projects i have worked on are hosted here
